@@ -5,6 +5,7 @@
 }
 body{
     color: #222c2A;
+    font-family: 'Roboto', sans-serif;
 }
 
 img{
@@ -14,6 +15,7 @@ img{
 h1, h2{
     font-weight: 900;
     margin-top: 0;
+    font-family: playfair Display Black;
 }
 
 .intro-text{
